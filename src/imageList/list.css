@@ -1,0 +1,30 @@
+.images__container{
+    border-radius: 2px;
+    box-shadow: -1px 2px -34px -13px ;
+    text-align: left;
+    overflow: hidden;
+}
+
+
+.images__image{
+
+    width: 100%;
+    height: 200px;
+
+}
+
+.images__details{
+    background-color: #34495e;
+}
+
+.images__details  button{
+    color: white;
+    width: 100%;
+    border: 0;
+}
+
+
+
+
+
+
